@@ -44,7 +44,7 @@ Sigue estos pasos y échate a navegar por los mares del código:
 
 Clona el repositorio:
 
-git clone https://github.com/usuario/literatura-aplicacion-java.git
+git clone https://github.com/Mdaniel001/Literatura-aplicacion-java.git
 
 Accede al directorio:
 
